@@ -1,6 +1,12 @@
 # react-fullscreen-loader
 A functional component based react component for full page loading
 
+[![CI status](https://github.com/felix-orinda/react-fullscreen-loader/actions/workflows/main.yml/badge.svg)](https://github.com/felix-orinda/react-fullscreen-loader/actions/workflows/main.yml)
+
+[![PR](https://github.com/felix-orinda/react-fullscreen-loader/actions/workflows/main.yml/badge.svg?event=pull_request)](https://github.com/felix-orinda/react-fullscreen-loader/actions/workflows/main.yml)
+
+[![CI](https://github.com/felix-orinda/react-fullscreen-loader/actions/workflows/main.yml/badge.svg?event=fork)](https://github.com/felix-orinda/react-fullscreen-loader/actions/workflows/main.yml)
+
 # Installation
 ```sh
 npm i react-fullscreen-loader # npm
